@@ -9,5 +9,5 @@ simple R program for two trimesters and found it convenient and
 useful. The R programming is selected because R is easy to install by
 most people. I tried to make it as simple as possible.
 
-For the detail of the program please read the PDF file 
+For the detail of the program please read the PDF file:   
 Zoom Online Class Attendance Check.pdf
